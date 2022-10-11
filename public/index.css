@@ -1,0 +1,44 @@
+body {
+    font-family: "Century Gothic", Gothic, sans-serif;
+    color: #ffffff;
+    margin: 1.5em;
+    background: #1f1f1f;
+}
+
+h1 {
+    font-family: "Century Gothic", Gothic, sans-serif;
+    font-style: bold;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: "Century Gothic", Gothic, sans-serif;
+    font-style: bold;
+    color: #ffffff;
+}
+
+h3 {
+    font-family: "Century Gothic", Gothic, sans-serif;
+    font-style: bold;
+    color: #ffffff;
+}
+
+a:link {
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #bfbfbf;
+}
+
+a:active {
+    text-decoration: none;
+    color: #ffffff;
+}
